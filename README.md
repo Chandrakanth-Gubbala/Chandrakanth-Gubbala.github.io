@@ -16,7 +16,6 @@ My operating method is consistent across domains: frame the decision, interrogat
 - **Nora AI Assistant:** an AI-governance workflow built around evidence sufficiency, provenance, refusal, escalation, and human review.
 - **ISRO Storm Nowcasting:** model evaluation and cross-functional adoption translated into high-stakes operational decision support.
 - **HELOC Risk Assessment:** explainable machine learning translated into a review-oriented interface.
-- **GreenPack Energy Retrofit:** a five-year operating, financial, partner, and ESG decision model.
 - **Atmospheric Research:** public code for GNSS tomography, diurnal water-vapor analysis, and satellite validation.
 - **B2B SaaS Go-to-Market:** segmentation, pricing, channel, and adoption strategy developed through Simon Vision Consulting.
 - **Scientific Software Strategy:** a support, licensing, and pricing model developed for Thermo Fisher Scientific.
