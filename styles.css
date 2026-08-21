@@ -699,10 +699,13 @@ p, li { text-wrap: pretty; }
 }
 
 @media (max-width: 900px) {
+    .site-header { background: var(--night); }
     .home-page .hero { padding-bottom: 90px; }
     .home-page .hero-grid, .about-observatory-grid, .about-thesis-grid { grid-template-columns: 1fr; }
     .home-page .hero-media { min-height: 560px; }
     .home-page .hero-portrait { left: 18%; right: 4%; }
+    .home-page .selected-work { grid-template-columns: 1fr; }
+    .home-page .selected-work .project-card { min-width: 0; }
     .home-page .project-card-wide {
         grid-column: auto;
         display: flex;
