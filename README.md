@@ -2,7 +2,7 @@
 
 This repository powers my personal portfolio: [chandrakanth-gubbala.github.io](https://chandrakanth-gubbala.github.io/).
 
-I am a technical program manager working across AI, data, and strategy. My background combines seven years leading weather and geospatial programs at the Indian Space Research Organisation with an MBA in Strategy and Technology from the University of Rochester's Simon Business School.
+I am a technical program manager and atmospheric scientist working across strategy, data, and execution. My background combines seven years leading weather and geospatial programs at the Indian Space Research Organisation with an MBA in Strategy and Technology from the University of Rochester's Simon Business School.
 
 The portfolio shows how I build and lead decision systems when evidence is incomplete, stakeholders are diverse, and execution matters.
 
@@ -15,11 +15,13 @@ The portfolio shows how I build and lead decision systems when evidence is incom
 - **HELOC Risk Assessment:** explainable machine learning translated into a review-oriented interface.
 - **GreenPack Energy Retrofit:** a five-year operating, financial, partner, and ESG decision model.
 - **Atmospheric Research:** public code for GNSS tomography, diurnal water-vapor analysis, and satellite validation.
+- **B2B SaaS Go-to-Market:** segmentation, pricing, channel, and adoption strategy developed through Simon Vision Consulting.
+- **Scientific Software Strategy:** a support, licensing, and pricing model developed for Thermo Fisher Scientific.
 
 ## Site Architecture
 
-- `index.html` presents the positioning, flagship evidence, selected work, experience, and contact paths.
-- `work.html` contains the complete project portfolio with accessible category filters.
+- `index.html` presents the positioning, flagship evidence, featured projects, experience, and contact paths.
+- `work.html` contains all 14 projects with accessible category filters.
 - `experience.html` provides the professional and educational timeline.
 - `about.html` tells the story from IIST and ISRO through Simon and the present.
 - `case-studies/` contains seven detailed project narratives with roles, constraints, evidence, methods, outcomes, and reflections.
@@ -47,7 +49,7 @@ Then open `http://localhost:8010/`.
 
 The portfolio preserves verified project scope and outcomes while separating team or program results from my personal contribution. Private client material, restricted operational data, and internal screenshots are excluded.
 
-Generated illustrations are visibly labeled **Sanitized visual summary**. They contain no client data, private logos, fabricated metrics, or readable pseudo-data and are never presented as original client artifacts or photographs.
+Generated illustrations use project-specific labels such as **Operational decision flow** and **Go-to-market architecture**. Captions describe them as conceptual where context matters. They contain no client data, private logos, fabricated metrics, or readable pseudo-data and are never presented as original client artifacts or photographs.
 
 ## Accessibility And Performance
 
