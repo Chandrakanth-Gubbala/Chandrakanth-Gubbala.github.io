@@ -1,27 +1,61 @@
-# Chandrakanth Gubbala
+# Chandrakanth Gubbala | Decision Systems Portfolio
 
-This repository powers my personal portfolio website:
+This repository powers my personal portfolio: [chandrakanth-gubbala.github.io](https://chandrakanth-gubbala.github.io/).
 
-https://chandrakanth-gubbala.github.io/
+I am a technical program manager working across AI, data, and strategy. My background combines seven years leading weather and geospatial programs at the Indian Space Research Organisation with an MBA in Strategy and Technology from the University of Rochester's Simon Business School.
 
-The site brings together my work across technical program management, weather intelligence, atmospheric science, AI decision systems, clean energy strategy, business analytics, and product-oriented problem solving.
+The portfolio shows how I build and lead decision systems when evidence is incomplete, stakeholders are diverse, and execution matters.
 
-## About The Portfolio
+## Featured Work
 
-My background combines seven years of safety-critical program leadership at the Indian Space Research Organisation with an MBA in Strategy and Technology from Simon Business School. The portfolio is meant to show how that experience connects across technical execution, stakeholder alignment, research, analytics, and business strategy.
+- **RisQ Weather Intelligence:** a live U.S. weather-risk product with forecast stress, NOAA/NWS alerts, regional comparison, and the SkyScout assistant.
+- **ISRO Storm Nowcasting:** operational weather intelligence supporting time-sensitive launch reviews.
+- **25-Station GNSS Network:** a $1M distributed atmospheric monitoring program delivered 10% under budget.
+- **Nora AI Assistant:** a source-grounded assistant workflow with validation, refusal, and human-review paths.
+- **HELOC Risk Assessment:** explainable machine learning translated into a review-oriented interface.
+- **GreenPack Energy Retrofit:** a five-year operating, financial, partner, and ESG decision model.
+- **Atmospheric Research:** public code for GNSS tomography, diurnal water-vapor analysis, and satellite validation.
 
-It highlights work such as:
+## Site Architecture
 
-- Weather intelligence and storm nowcasting programs supporting launch and disaster-response decisions.
-- GNSS infrastructure and atmospheric research across water vapor monitoring, tomography, and satellite validation.
-- AI and analytics projects including RisQ Weather Intelligence, Nora AI Assistant, and HELOC risk assessment.
-- Clean energy, sustainability, market strategy, and commercialization projects from MBA and consulting work.
-- Technical skills across Python, SQL, TypeScript, Vite, data analysis, machine learning, geospatial tools, and AI-assisted development workflows.
+- `index.html` presents the positioning, flagship evidence, selected work, experience, and contact paths.
+- `work.html` contains the complete project portfolio with accessible category filters.
+- `experience.html` provides the professional and educational timeline.
+- `about.html` tells the story from IIST and ISRO through Simon and the present.
+- `case-studies/` contains seven detailed project narratives with roles, constraints, evidence, methods, outcomes, and reflections.
+- `assets/` stores self-hosted fonts, documents, optimized images, and click-to-load demo videos.
 
-## What Visitors Should Understand
+The site is static HTML, CSS, and JavaScript with no framework or runtime dependency. It is designed for GitHub Pages and uses explicit `.html` routes.
 
-This portfolio is not just a collection of projects. It is a narrative of how I work: I take complex systems, incomplete information, and high-stakes decisions, then turn them into structured execution, clearer evidence, and stakeholder-ready recommendations.
+## Local Preview
 
-## Repository Notes
+From the repository root, run either:
 
-This is the canonical GitHub Pages repository for my portfolio. It is a static site built with HTML, CSS, and JavaScript and served from the `main` branch through GitHub Pages.
+```powershell
+python -m http.server 8010
+```
+
+or:
+
+```powershell
+npx serve .
+```
+
+Then open `http://localhost:8010/`.
+
+## Content And Confidentiality
+
+The portfolio preserves verified project scope and outcomes while separating team or program results from my personal contribution. Private client material, restricted operational data, and internal screenshots are excluded.
+
+Generated illustrations are visibly labeled **Sanitized visual summary**. They contain no client data, private logos, fabricated metrics, or readable pseudo-data and are never presented as original client artifacts or photographs.
+
+## Accessibility And Performance
+
+The site includes semantic landmarks, a skip link, keyboard-visible focus, accessible filters, reduced-motion support, descriptive media text, a keyboard-operable lightbox, responsive layouts, and click-to-load video. Images below the first viewport are lazy-loaded and include intrinsic dimensions to reduce layout shift.
+
+## Contact
+
+- Email: [chandrakanth8995@gmail.com](mailto:chandrakanth8995@gmail.com)
+- LinkedIn: [linkedin.com/in/chandrakanthgubbala](https://www.linkedin.com/in/chandrakanthgubbala)
+- GitHub: [github.com/Chandrakanth-Gubbala](https://github.com/Chandrakanth-Gubbala)
+- Google Scholar: [scholar.google.com](https://scholar.google.com/citations?user=8GOHF-MAAAAJ&hl=en)
