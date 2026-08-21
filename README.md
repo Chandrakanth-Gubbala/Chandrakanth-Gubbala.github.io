@@ -1,8 +1,8 @@
 # Chandrakanth Gubbala | Decision Systems Portfolio
 
-This repository powers my personal portfolio: [chandrakanth-gubbala.github.io](https://chandrakanth-gubbala.github.io/).
+This repository powers my personal portfolio: [chandrakanth-gubbala.github.io/Chandrakanth-Gubbala-Portfolio/](https://chandrakanth-gubbala.github.io/Chandrakanth-Gubbala-Portfolio/).
 
-I am a technical program manager and atmospheric scientist working across strategy, data, and execution. My background combines seven years leading weather and geospatial programs at the Indian Space Research Organisation with an MBA in Strategy and Technology from the University of Rochester's Simon Business School.
+I am a technical program manager and scientist working across strategy, data, and execution. My background combines seven years leading weather and geospatial programs at the Indian Space Research Organisation with an MBA in Strategy and Technology from the University of Rochester's Simon Business School.
 
 The portfolio shows how I build and lead decision systems when evidence is incomplete, stakeholders are diverse, and execution matters.
 

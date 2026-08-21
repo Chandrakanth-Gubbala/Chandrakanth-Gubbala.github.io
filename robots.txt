@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chandrakanth-gubbala.github.io/sitemap.xml
+Sitemap: https://chandrakanth-gubbala.github.io/Chandrakanth-Gubbala-Portfolio/sitemap.xml
